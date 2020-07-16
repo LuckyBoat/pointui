@@ -4,6 +4,10 @@
 
 ## 作者: 舟
 
+## 效果链接
+
+[基于Vue的UI库](https://luckyboat.github.io/pointui/)
+
 ## 介绍
 基于 Vue 做的 UI 框架
 ## 开始使用
@@ -25,7 +29,7 @@
 npm install --save pointui
 ```
 
-3. 引入
+3. 引入方法
 ```javascript
 import {Button,ButtonGroup,Icon} from 'pointui'
 import 'point/dist/index.css'
@@ -38,10 +42,6 @@ export default {
   }
 }
 ```
-
-## 文档
-
-[官方文档](https://chaunceym.github.io/pointui/)
 
 
 
