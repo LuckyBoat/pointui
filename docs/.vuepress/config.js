@@ -23,6 +23,10 @@ module.exports = {
             ['tab.md', 'Tab'],
             ['toast.md', 'Toast'],
             ['collapse.md', 'Collapse'],
+            ['install.md', 'Install'],
+            ['layout.md', 'Layout'],
+            ['popover.md', 'Popover'],
+            ['responsive.md', 'Responsive'],
           ]
         }
       ],
